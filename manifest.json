@@ -1,0 +1,11 @@
+{
+    "manifest_version":2,
+    "name":"Covid-19 info",
+    "description":"Covid Tracker",
+    "version":"1.0",
+    "browser_action":{
+      "default-_title":"Covid Tracker",
+        "default_popup":"popup.html"
+    }
+
+}
